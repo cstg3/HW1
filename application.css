@@ -1,0 +1,14 @@
+.myapplication{
+    font-size: 20px;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: rgb(47, 106, 151);    
+    }
+
+.mytittle{
+        width: 300px;
+        height: 40px;
+        margin: 0 auto;
+            
+        }

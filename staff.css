@@ -1,0 +1,20 @@
+.mytable{
+        width: 1000px;
+        height: 1000px;
+        margin: 0 auto;
+        text-align: center;
+        vertical-align: middle;
+        border-width: 2px;
+        border-color: black;
+        border-style: solid;
+        }
+body{
+
+            background-color: rgb(145, 137, 55);
+
+        }
+td,th{
+                border-width: 2px;
+                border-color: black;
+                border-style: solid; 
+            }

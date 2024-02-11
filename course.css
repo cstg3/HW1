@@ -1,0 +1,18 @@
+.mycourse{
+    font-size: 20px;
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+        
+    }
+body{
+
+        background-color: rgb(50, 169, 117);
+
+    }
+.mytittle{
+        width: 300px;
+        height: 40px;
+        margin: 0 auto;
+            
+        }
